@@ -51,5 +51,6 @@ spec:
     targetPort: 8080
   selector:
     app: twitter-feed
+    color: blue
   type: ClusterIP
 ---
